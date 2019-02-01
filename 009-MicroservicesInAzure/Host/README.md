@@ -1,7 +1,5 @@
 # Microservices in Azure Host Info
 
-## Contents
-
 1. Code - ASP.Net Core Containers that are deployed to the microservicesdiscovery Docker Hub.
 ..* Run buildContainers.cmd to rebuild and deploy the Containers.
 
